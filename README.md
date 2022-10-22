@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @travis-mann
-- 👀 I’m interested in DevOps and automating everything in sight
-- 🌱 I’m currently learning Javascript, HTML and CSS to start some front end projects as well as Docker and containers for cloud based deployments.
-- 💞️ I’m looking to collaborate on cloud based application development with CI/CD on an agile scrum team.
+- 👀 I’m interested in DevOps and automating everything in sight.
+- 🌱 I’m currently learning 
+  - Javascript, HTML and CSS to start some front end projects
+  - Docker and containers for cloud based deployments.
 - 📫 How to reach me tmann.eng@gmail.com
