@@ -2,5 +2,5 @@
 - 👀 I’m interested in DevOps and automating everything in sight.
 - 🌱 I’m currently learning 
   - Javascript, HTML and CSS to learn the basics of front end development
-  - Docker and Kubernetes for cloud based deployments.
+  - Docker and Kubernetes for cloud based deployments
 - 📫 How to reach me tmann.eng@gmail.com
