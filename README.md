@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @travis-mann
-- 👀 I’m interested in DevOps and automating everything in sight.
+- 👀 I’m interested in DevOps, automation, Python and machine learning
 - 🌱 I’m currently learning 
-  - Javascript, HTML and CSS to learn the basics of front end development
-  - Docker and Kubernetes for cloud based deployments
+  - Algorithm Fundamentals
+  - C#/.NET
 - 📫 How to reach me tmann.eng@gmail.com
