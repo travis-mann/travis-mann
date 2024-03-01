@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @travis-mann
-- 👀 I’m interested in DevOps, automation, Python and machine learning
+- 👀 I’m interested in systems engineering, Python, C#, and automation
 - 🌱 I’m currently learning 
-  - Algorithm Fundamentals
-  - C#/.NET
+  - Algorithm fundamentals including graph search, divide and conquer and computational tractability
+  - Software system design including SOLID OOP principles, functional programming, UML, and full stack web application design using MySQL, Java Spring Boot & React hosted on an AWS EC2
 - 📫 How to reach me tmann.eng@gmail.com
